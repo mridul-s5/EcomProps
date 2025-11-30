@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+// import React, { useMemo } from 'react'
 import { IoBagOutline } from "react-icons/io5";
 
 const Cart = (props) => {
